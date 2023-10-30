@@ -1,5 +1,5 @@
 # FENet
-This repository contains the code used for "FENet: A Deep Learning Model for Finite Element Dynamics Simulation and Its Application in Pantograph-Catenary System."
+This repository contains the Pytorch implementation and pre-trained models  used for "FENet: A Deep Learning Model for Finite Element Dynamics Simulation and Its Application in Pantograph-Catenary System."
 
 
 ## Requirements
